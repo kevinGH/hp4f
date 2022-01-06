@@ -1,4 +1,4 @@
-package insecuretransport
+package insecureTransport
 
 import "net/http"
 
